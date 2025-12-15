@@ -1,2 +1,2 @@
 # RTUEats
-RTUEats apk file
+RTUEats apk file and documentation
